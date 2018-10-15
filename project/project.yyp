@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "05a25a99-e393-44f3-a270-c97cdd262b8d",
+            "Value": {
+                "id": "fe9f889b-d8ab-484a-bb95-08c82508e98d",
+                "resourcePath": "scripts\\read_packet\\read_packet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1d6c2d73-5f26-425a-9cbd-d3d65d7f6640",
             "Value": {
                 "id": "036799f8-4e74-4ed0-ba21-4ff3b6d3117c",
                 "resourcePath": "views\\1d6c2d73-5f26-425a-9cbd-d3d65d7f6640.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2aea53b5-2692-4e20-99a7-e4bcdb000c32",
+            "Value": {
+                "id": "24801430-9307-4704-8e62-ac8cb34016b6",
+                "resourcePath": "objects\\o_client\\o_client.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,6 +143,22 @@
             }
         },
         {
+            "Key": "93cdf791-a22f-49e5-a171-155d50d024cd",
+            "Value": {
+                "id": "280ae49f-76dd-4fbf-841f-cfd7e4c4776e",
+                "resourcePath": "objects\\o_server\\o_server.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a357d254-248d-4c24-a62c-cc0cfe8aee67",
+            "Value": {
+                "id": "fc892e0e-ad97-4c3a-9b24-a82509aef975",
+                "resourcePath": "objects\\o_game\\o_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "25e5d1ba-adb6-447e-b701-778d350a2ebe",
@@ -175,6 +207,14 @@
             }
         },
         {
+            "Key": "eec4d761-74be-4a5e-8255-5e12dbc4868d",
+            "Value": {
+                "id": "75763ae1-89ea-4a08-aa9c-635713c409bb",
+                "resourcePath": "scripts\\get_input\\get_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "ed20d824-00b6-49b0-8c8e-92f9d05f778d",
@@ -192,7 +232,8 @@
         }
     ],
     "script_order": [
-        
+        "05a25a99-e393-44f3-a270-c97cdd262b8d",
+        "eec4d761-74be-4a5e-8255-5e12dbc4868d"
     ],
     "tutorial": ""
 }
