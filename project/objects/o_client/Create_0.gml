@@ -14,4 +14,4 @@ send_buffer = buffer_create(size, type, alignment);
 show_debug_message("Client created");
 
 
-url = "https://fierce-thicket-30230.herokuapp.com/test";
+url = "https://fierce-thicket-30230.herokuapp.com/instance";

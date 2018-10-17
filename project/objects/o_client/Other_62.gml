@@ -2,7 +2,6 @@
 show_debug_message("Client HTTP async call");
 //get result
 var json = async_load[? "result"];
-show_debug_message("res was " + json);
 //convert json to ds_map
 var map = json_decode(json);
 //if json is bad
