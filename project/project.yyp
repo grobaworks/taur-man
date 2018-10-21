@@ -159,6 +159,22 @@
             }
         },
         {
+            "Key": "57d32ccf-415f-40fb-8855-6a38059c56cc",
+            "Value": {
+                "id": "eb4865ce-d72d-4610-9969-30a37cf5a656",
+                "resourcePath": "views\\57d32ccf-415f-40fb-8855-6a38059c56cc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a515040-a6fc-4560-87a3-9716cc5011d0",
+            "Value": {
+                "id": "e50fe2d9-594c-41e7-9eff-3938a8fe70b8",
+                "resourcePath": "sprites\\spr_mLeftIdle\\spr_mLeftIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d9584c3-70b9-4e65-a587-8462079ff6bd",
             "Value": {
                 "id": "2319500f-d1bd-4c63-a2dd-938b72bb933b",
@@ -244,6 +260,14 @@
                 "id": "6712f01d-05d1-4499-9ce7-84086eaa4e99",
                 "resourcePath": "views\\8ccebd55-3cf1-469c-b6a4-fc2f3e609b94.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "91ae9c5f-68f4-4c5a-92ea-1bdb39c76bb7",
+            "Value": {
+                "id": "4c41e58e-cc6a-4e9d-84f2-58e5e2fa838c",
+                "resourcePath": "sprites\\spr_mRightWalk\\spr_mRightWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,6 +423,14 @@
             }
         },
         {
+            "Key": "ecb9b7be-c77c-43f4-97e2-9d792ca3f925",
+            "Value": {
+                "id": "ee8de3a0-4862-4dce-88db-62cc353674f0",
+                "resourcePath": "sprites\\spr_mLeftWalk\\spr_mLeftWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed21e2e5-32b0-4ea2-aab6-4372ffd93285",
             "Value": {
                 "id": "94271865-987c-48fc-81d4-8c2955bae5c0",
@@ -458,7 +490,7 @@
             "Key": "f80f0554-d1b9-4170-ba10-a20af1d26b4a",
             "Value": {
                 "id": "17ecaea4-38cf-4cd2-b243-132d10afbc03",
-                "resourcePath": "sprites\\spr_minotaur\\spr_minotaur.yy",
+                "resourcePath": "sprites\\spr_mRightIdle\\spr_mRightIdle.yy",
                 "resourceType": "GMSprite"
             }
         }
