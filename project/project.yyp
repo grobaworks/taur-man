@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "5d9584c3-70b9-4e65-a587-8462079ff6bd",
+            "Value": {
+                "id": "2319500f-d1bd-4c63-a2dd-938b72bb933b",
+                "resourcePath": "sprites\\spr_leftidle\\spr_leftidle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67442a88-0ceb-41a5-b007-48ec660aa17c",
             "Value": {
                 "id": "1f6a01de-b1f1-4bec-9cf3-a5616484c17e",
@@ -244,6 +252,14 @@
                 "id": "46d463e8-3ed9-4038-983b-9e5435f4a3b9",
                 "resourcePath": "objects\\o_minotaur\\o_minotaur.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6737573-9b0f-4945-ad4c-b82c5ef125ce",
+            "Value": {
+                "id": "1814b8a4-07a2-4d42-b807-460d4c373e64",
+                "resourcePath": "views\\a6737573-9b0f-4945-ad4c-b82c5ef125ce.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -378,7 +394,7 @@
             "Key": "f7c92c2b-64e0-4907-ba80-9e1bf90b33b5",
             "Value": {
                 "id": "64fa1359-5c1b-4f3f-8378-c5e893ba8805",
-                "resourcePath": "sprites\\spr_spartan\\spr_spartan.yy",
+                "resourcePath": "sprites\\spr_rightidle\\spr_rightidle.yy",
                 "resourceType": "GMSprite"
             }
         },
