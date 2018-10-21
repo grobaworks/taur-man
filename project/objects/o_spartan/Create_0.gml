@@ -3,5 +3,3 @@
 
 // Inherit the parent event
 event_inherited();
-
-global.spartanFacing = 1;
