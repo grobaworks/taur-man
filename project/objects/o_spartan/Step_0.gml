@@ -3,6 +3,10 @@
 
 event_inherited();
 
+if global.type == "o_minotaur" {
+	torch.sprite_index = 2;	
+}
+
 if !keyboard_check(ord("D") && ord("A")) {
     if spartanFacing == 1 {
         sprite_index = spr_rightidle;

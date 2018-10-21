@@ -223,14 +223,6 @@
             }
         },
         {
-            "Key": "78918a50-e5aa-4d82-901c-ca167684f306",
-            "Value": {
-                "id": "3c64a411-4b0e-48d3-aed1-fef34b5da2ce",
-                "resourcePath": "views\\78918a50-e5aa-4d82-901c-ca167684f306.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "83db0b13-efa8-4b4d-abd6-6eb82f22038e",
             "Value": {
                 "id": "6cfb06c6-aaa4-4ce5-a470-ba7f0f2bf2f9",
@@ -343,6 +335,14 @@
             }
         },
         {
+            "Key": "c2d25e28-3df9-434b-8652-6dd4263ea975",
+            "Value": {
+                "id": "a574b9b1-f294-4adb-90a5-7613829cc60c",
+                "resourcePath": "sprites\\spr_taur_light\\spr_taur_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3199a2a-c41c-4cc1-96d6-70aa3ed54a40",
             "Value": {
                 "id": "747ac80c-2680-409c-b47a-5ac6f6abdf05",
@@ -452,6 +452,14 @@
                 "id": "75763ae1-89ea-4a08-aa9c-635713c409bb",
                 "resourcePath": "scripts\\get_input\\get_input.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f0f43611-f339-459e-b11b-4ce9d116e04c",
+            "Value": {
+                "id": "320efb56-deb6-4fa9-be1e-40909c85ecda",
+                "resourcePath": "objects\\o_taur_light\\o_taur_light.yy",
+                "resourceType": "GMObject"
             }
         },
         {
