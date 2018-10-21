@@ -13,3 +13,4 @@ global.taur = instance_create_depth(100, 100, 0, o_player);
 global.taur.type = "taur";
 
 global.camera = instance_create_depth(0,0,0,o_camera);
+

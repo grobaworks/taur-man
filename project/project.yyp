@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "424ba68a-764c-4b01-b212-d08212f275aa",
+            "Value": {
+                "id": "5309529a-7575-48ed-ad73-f1464cfb14b2",
+                "resourcePath": "rooms\\rm_main1\\rm_main1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "43741eb9-ecdc-47b9-a085-3f3d57540b96",
             "Value": {
                 "id": "39bfffca-91e0-4c26-94c6-c66cf9860bd3",
@@ -100,6 +108,14 @@
                 "id": "fa170f7e-a5b5-4754-b1e6-cb5ab2fe5442",
                 "resourcePath": "views\\4c178b72-70aa-4a03-af5c-d8ac1c78f37c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4cb9c377-76c8-4303-9c9e-e0413ad405f6",
+            "Value": {
+                "id": "ea2cdd69-53fe-4acd-b2b3-53823f0a9d70",
+                "resourcePath": "sprites\\spr_map\\spr_map.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "6e226658-3685-4a67-be82-8fea911320f4",
+            "Value": {
+                "id": "a4a99027-d856-4d68-9dba-6e75873e2466",
+                "resourcePath": "objects\\o_map\\o_map.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "762d2323-05c3-4244-8100-e1603220998f",
             "Value": {
                 "id": "b966da93-083a-4ecc-9c18-43491c81a2bd",
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "8ae6e91b-f7ec-42ab-8c72-9b9d076dc73d",
+            "Value": {
+                "id": "eb87bf3d-4857-4b5f-8052-a8745d8c26ad",
+                "resourcePath": "objects\\o_spartan\\o_spartan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a0173931-b8c5-48a6-9d74-3bc40464225d",
             "Value": {
                 "id": "f583da35-0110-4dfc-994b-80c308d64b2e",
@@ -171,6 +203,14 @@
             "Value": {
                 "id": "fc892e0e-ad97-4c3a-9b24-a82509aef975",
                 "resourcePath": "objects\\o_game\\o_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a558dbdc-e867-4363-88dc-d6735a29a1c4",
+            "Value": {
+                "id": "46d463e8-3ed9-4038-983b-9e5435f4a3b9",
+                "resourcePath": "objects\\o_minotaur\\o_minotaur.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -268,6 +308,22 @@
                 "id": "05e2c139-ef2b-4b72-8707-4a104cbb21d5",
                 "resourcePath": "views\\f784d7fa-c7b8-4109-8ba4-b8727fe53d2e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f7c92c2b-64e0-4907-ba80-9e1bf90b33b5",
+            "Value": {
+                "id": "64fa1359-5c1b-4f3f-8378-c5e893ba8805",
+                "resourcePath": "sprites\\spr_spartan\\spr_spartan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f80f0554-d1b9-4170-ba10-a20af1d26b4a",
+            "Value": {
+                "id": "17ecaea4-38cf-4cd2-b243-132d10afbc03",
+                "resourcePath": "sprites\\spr_minotaur\\spr_minotaur.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
