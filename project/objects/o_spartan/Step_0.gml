@@ -1,7 +1,9 @@
 /// @description Animation code
 /// @author mstrack
 
-if !keyboard_check_pressed(ord("D") && ord("A")) {
+event_inherited();
+
+if !keyboard_check(ord("D") && ord("A")) {
     if spartanFacing == 1 {
         sprite_index = spr_rightidle;
     }
@@ -10,11 +12,11 @@ if !keyboard_check_pressed(ord("D") && ord("A")) {
     }
 }
 
-if keyboard_check_pressed(ord("D")) {
+if keyboard_check(ord("D")) {
     sprite_index = spr_rightwalk;
     spartanFacing = 1;
 }
-if keyboard_check_pressed(ord("A")) {
+if keyboard_check(ord("A")) {
     sprite_index = spr_leftwalk;
     spartanFacing = 0;
 }
