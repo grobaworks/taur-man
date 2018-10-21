@@ -6,9 +6,16 @@ global.other = "";
 
 global.url = "https://fierce-thicket-30230.herokuapp.com/instance";
 
-global.human = instance_create_depth(500, 500, 0, o_spartan);
+h_start_x[0] = 100;
+h_start_y[0] = 100;
+h_start_x[1] = 269;
+h_start_y[1] = 869;
+h_start_x[2] = 969;
+h_start_y[2] = 969;
+var r = random_range(0, 2);
+global.human = instance_create_depth(h_start_x[r], h_start_y[r], 0, o_spartan);
 
-global.taur = instance_create_depth(100, 100, 0, o_minotaur);
+global.taur = instance_create_depth(500, 500, 0, o_minotaur);
 
 global.camera = instance_create_depth(0,0,0,o_camera);
 
