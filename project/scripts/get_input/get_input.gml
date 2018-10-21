@@ -7,6 +7,6 @@ if keyboard_check_pressed(ord("H")) {
 }
 
 if keyboard_check_pressed(ord("M")) {
-	 type = "o_minotaur";
+	global.type = "o_minotaur";
 	global.other = "o_spartan";
 }
