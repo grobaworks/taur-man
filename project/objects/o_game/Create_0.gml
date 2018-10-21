@@ -12,3 +12,4 @@ global.taur = instance_create_depth(100, 100, 0, o_minotaur);
 
 global.camera = instance_create_depth(0,0,0,o_camera);
 
+treasure = instance_create_depth(815, 125, 0, o_treasure);
