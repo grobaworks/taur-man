@@ -2,7 +2,7 @@
 name = object_get_name(object_index);
 show_debug_message(name + " created");
 
-move_speed = 10;
+move_speed = 5;
 
 // frames/request_speed = requests/sec
 request_speed = 10;

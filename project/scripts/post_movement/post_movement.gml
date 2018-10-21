@@ -2,6 +2,7 @@
 /// @function post_movement(x_pos, y_pos)
 /// @param x_pos the x cord of the object
 /// @param y_pos the y cord of the object
+/// @author drewccannedy
 
 var x_pos = argument0;
 var y_pos = argument1;
