@@ -5,13 +5,23 @@
     "name": "o_spartan",
     "eventList": [
         {
-            "id": "c987b109-d059-4955-814f-746918a75074",
+            "id": "2ab1690d-bbaa-4f7f-8346-b2daae747f27",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "a558dbdc-e867-4363-88dc-d6735a29a1c4",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
+            "m_owner": "8ae6e91b-f7ec-42ab-8c72-9b9d076dc73d"
+        },
+        {
+            "id": "a8721eca-8073-431e-9664-17983949a86f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "8ae6e91b-f7ec-42ab-8c72-9b9d076dc73d"
         }
     ],
