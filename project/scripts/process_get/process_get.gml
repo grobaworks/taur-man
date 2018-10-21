@@ -2,6 +2,7 @@
 /// @function process_get(map, field);
 /// @params map the map to retrieve data from
 /// @params field the field to access from the map
+/// @author drewccannedy
 var map = argument0;
 var field = argument1;
 

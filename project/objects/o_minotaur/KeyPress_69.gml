@@ -1,0 +1,2 @@
+/// @description minotaur sniff
+sniff();
