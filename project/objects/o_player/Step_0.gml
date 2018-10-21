@@ -1,5 +1,5 @@
 /// @description things to do per step
-if global.type = type {
+if global.type = name {
 	var change = move(move_speed);
 	if change {
 		post_movement(x, y);

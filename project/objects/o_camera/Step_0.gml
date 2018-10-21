@@ -1,10 +1,10 @@
 /// @description camera step
 
-if global.type == "human" {
+if global.type == "o_spartan" {
      follow_object = global.human;
 }
 
-if global.type == "taur" {
+if global.type == "o_minotaur" {
 	follow_object = global.taur;
 }
 

@@ -8,7 +8,7 @@ if (map == -1){
 	exit;
 }
 //grab positions from server
-if global.type != type {
+if global.type != name {
 	newX = process_get(map, global.other + "X");
 	newY = process_get(map, global.other + "Y");
 	
