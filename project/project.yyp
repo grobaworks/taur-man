@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0c04d67a-4456-4896-bf6d-a4a5cc2d6fc2",
+            "Value": {
+                "id": "20aad2d0-112f-4bdc-802e-c81f35b2db1d",
+                "resourcePath": "scripts\\update_sprite\\update_sprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "10d4a9c6-ab81-4c31-b275-fd7e9fb6f841",
             "Value": {
                 "id": "1cfc8474-ed82-4c8c-a359-b52f6464f210",
@@ -509,7 +517,8 @@
         "d7ec0216-4893-4102-b336-bf3ddfd473a1",
         "f7646257-bddb-4b94-97ec-7cb97ba9cae5",
         "d8f97cd2-5f71-47a8-badf-1b130105740a",
-        "eec4d761-74be-4a5e-8255-5e12dbc4868d"
+        "eec4d761-74be-4a5e-8255-5e12dbc4868d",
+        "0c04d67a-4456-4896-bf6d-a4a5cc2d6fc2"
     ],
     "tutorial": ""
 }

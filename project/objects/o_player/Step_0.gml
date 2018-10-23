@@ -13,3 +13,4 @@ if global.type = name {
 		counter = 0;
 	}
 }
+update_sprite();
