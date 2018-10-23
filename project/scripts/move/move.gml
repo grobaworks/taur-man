@@ -21,5 +21,7 @@ if keyboard_check(ord("A")) {
 	x -= move_speed;
 	return true;
 }
+prev_y = y;
+prev_x = x;
 //if no key was pressed
 return false;

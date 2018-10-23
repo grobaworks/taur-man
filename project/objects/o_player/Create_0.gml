@@ -12,3 +12,9 @@ counter = 0;
 if global.type == object_get_name(object_index) {
 	post_movement(x, y);
 }
+
+//sprite facing
+facing = 1;
+//prev move used in sprites
+prev_x = x;
+prev_y = y;
