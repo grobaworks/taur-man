@@ -4,7 +4,12 @@
 global.type = "";
 global.other = "";
 
+
 global.url = "https://fierce-thicket-30230.herokuapp.com/instance";
+
+global.server = true;
+global.http_id = ""; //init in http-start async
+http_created = false;
 
 h_start_x[0] = 100;
 h_start_y[0] = 100;
