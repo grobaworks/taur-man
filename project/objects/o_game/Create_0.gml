@@ -7,7 +7,9 @@ global.other = "";
 
 global.url = "https://fierce-thicket-30230.herokuapp.com/instance";
 
-global.server = true;
+//if instance_creator is true, this game instance will
+//create the instance of the http server used for multiplayer
+instance_creator = false;
 global.http_id = ""; //init in http-start async
 http_created = false;
 

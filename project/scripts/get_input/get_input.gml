@@ -10,3 +10,6 @@ if keyboard_check_pressed(ord("M")) {
 	global.type = "o_minotaur";
 	global.other = "o_spartan";
 }
+if keyboard_check_pressed(ord("P")){
+	instance_creator = true;	
+}
