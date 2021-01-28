@@ -1,0 +1,11 @@
+do_movement(
+	velocity,
+	spr_monster_idle,
+	spr_monster_idle,
+	spr_monster_idle,
+	spr_monster_idle,
+	ord("W"),
+	ord("S"),
+	ord("D"),
+	ord("A")
+);
